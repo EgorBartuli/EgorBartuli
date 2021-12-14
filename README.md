@@ -1,42 +1,56 @@
-### Привет, меня зовут Егор 👋
+### Привет! Я -  Егор, frontend разработчик!
 
+- 👀 Интересуюсь web-разработкой, путешествиями
+- :space_invader:  В настоящее время изучаю TypeScript
+- 📫 Как связаться: egor.bartuli@gmail.com
 
+---
+### Контакты:
 
-<!-- <div> -->
-- I’m currently learning <img style="margin-left: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />
-- Ask me anything about MERN or PERN stack and related technologies
-<!-- </div> -->
-
-<!-- --- -->
-<!-- ### Контакты:
 [<img align="left" alt="juljuliks | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
 [<img align="left" alt="juljuliks | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
+<!-- [<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp] -->
 [<img align="left" alt="juljuliks | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-<br/>
-<br/> -->
-
-
----
-### Стек:
 
 <br/>
-
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
-[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
-[<img align="left" alt="Redux"  width="40px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
-[<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>][git]
-[<img align="left" alt="PostgreSQL" width="40px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
-[<img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>][git]
-[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
-[<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][git]
-[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-
 <br/>
 
 ---
-### GitHub Stats:
-[![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorBartuli&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/EgorBartuli)
+### Мой стек:
+
+[<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
+[<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
+[<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
+[<img align="left" alt="Redux"  width="32px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
+[<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
+[<img align="left" alt="SQL" width="32px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>][git]
+[<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
+<!-- [<img align="left" alt="Docker" width="32px" src="https://img.icons8.com/color/48/000000/docker.png"/>][git] -->
+[<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
+[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
+[<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
+[<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][git]
+[<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
+
+<br/>
+<br/>
+<br/>
+
+- **Фронтенд**: JS, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
+- **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs
+- **Базы данных**: PostgreSQL, Sequelize ORM, Mongo, Mongoose
+- **A также**: Jest, Jasmin, REST
+
+
+---
+### GitHub cтатистика:
+[![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorBartuli&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/EgorBartuli)
+
+<!-- [resume]: https://drive.google.com/file/d/1fimloQQ7aPQDQ1kvQda6bTDQsP9zl313/view?usp=sharing
+[resumeHH]: https://hh.ru/resume/e74a53f2ff095f7dfb0039ed1f657455356546
+[linkedin]: https://www.linkedin.com/in/juliaglukhova -->
+[telegram]: https://t.me/bartoff
+[instagram]: https://www.instagram.com/bart.off
+[git]: https://github.com/EgorBartuli
 
 
