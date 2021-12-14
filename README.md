@@ -31,12 +31,12 @@
 [<img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>][git]
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
 [<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][git]
-[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 
 <br/>
 
 ---
 ### GitHub Stats:
-[![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=anakhom&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/EgorBartuli)
+[![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorBartuli&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/EgorBartuli)
 
 
