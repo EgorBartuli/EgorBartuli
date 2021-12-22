@@ -43,13 +43,11 @@
 - **A также**: Jest, Jasmin, REST
 
 
----
-### GitHub cтатистика:
-[![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorBartuli&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/EgorBartuli)
 
-<!-- [resume]: https://drive.google.com/file/d/1fimloQQ7aPQDQ1kvQda6bTDQsP9zl313/view?usp=sharing
-[resumeHH]: https://hh.ru/resume/e74a53f2ff095f7dfb0039ed1f657455356546
-[linkedin]: https://www.linkedin.com/in/juliaglukhova -->
+<!-- [resume]: https://drive.google.com
+
+[linkedin]: https://www.linkedin.com/ -->
+[resumeHH]: https://hh.ru/resume/057eefcbff09857a460039ed1f69564b557176
 [telegram]: https://t.me/bartoff
 [instagram]: https://www.instagram.com/bart.off
 [git]: https://github.com/EgorBartuli
