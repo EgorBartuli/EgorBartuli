@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in web-development, traveling
 <!-- - :space_invader:  В настоящее время изучаю TypeScript -->
-- 📫 Как связаться: egor.bartuli@gmail.com
+- 📫 Contact: egor.bartuli@gmail.com
 
 ---
 ### Контакты:
