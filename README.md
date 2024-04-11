@@ -1,6 +1,6 @@
-### Привет! Я -  Егор, frontend разработчик!
+### Hi! I'm Egor, frontend developer!
 
-- 👀 Интересуюсь web-разработкой, путешествиями
+- 👀 I'm interested in web-development, traveling
 <!-- - :space_invader:  В настоящее время изучаю TypeScript -->
 - 📫 Как связаться: egor.bartuli@gmail.com
 
@@ -16,7 +16,7 @@
 <br/>
 
 ---
-### Мой стек:
+### My stack:
 
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
 <!-- [<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git] -->
