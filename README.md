@@ -37,10 +37,10 @@
 <br/>
 <br/>
 
-- **Фронтенд**: JS, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
-- **Бекенд**: Node.js, Express, Sessions, CORS, WebSockets, hbs
-- **Базы данных**: PostgreSQL, Sequelize ORM, Mongo, Mongoose
-- **A также**: Jest, Jasmin, REST
+- **Frontend**: JS, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
+- **Backend**: Node.js, Express, Sessions, CORS, WebSockets, hbs
+- **DB**: PostgreSQL, Sequelize ORM, Mongo, Mongoose
+- **and more**: Jest, Jasmin, REST
 
 
 
