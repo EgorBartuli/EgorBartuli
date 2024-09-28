@@ -1,4 +1,4 @@
-### Hi! I'm Egor, frontend developer!
+### Hi! I'm Egor.
 
 - 👀 I'm interested in web-development, traveling
 <!-- - :space_invader:  В настоящее время изучаю TypeScript -->
